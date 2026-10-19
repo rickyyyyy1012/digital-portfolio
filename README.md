@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# Hello, I'm Ricardo
 
 **Digital T Level student at HoW College** · [Your pathway, e.g. Digital Production, Design & Development]
 
@@ -17,11 +17,6 @@
 | [Industry Inspiration & My Technical Direction](pages/industry-inspiration-technical-direction.md) | Where I want to go | ⏳ Week 5 |
 | [Year 1 Reflection](pages/year-1-reflection.md) | Looking back and planning Year 2 | ⏳ Week 6 |
 
-## 🎯 About this portfolio
+About this portfolio
 
 This repository hosts my professional digital portfolio for my T Level programme. It will grow each week as I add new reflections and evidence of my learning, covering the HoW 5Cs: **Communication, Collaboration, Critical Thinking, Company Values and Creativity**.
-
-## 📬 Contact
-
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
