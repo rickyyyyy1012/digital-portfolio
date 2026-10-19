@@ -1,4 +1,4 @@
-# Hello, I'm Ricardo
+# Hello, I am Ricardo
 
 **Digital T Level student at HoW College** · [Your pathway, e.g. Digital Production, Design & Development]
 
