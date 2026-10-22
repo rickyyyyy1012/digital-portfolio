@@ -18,9 +18,9 @@ My name is Ricardo Prisecaru. I chose to do this T Level in Digital Support and 
 ## Areas for development
 
 - **Area 1:**
-- I want to improve my understanding of network security. I will do this by continuing to go through the Cisco courses to further improve my understanding of the topic
+  I want to improve my understanding of network security. I will do this by continuing to go through the Cisco courses to further improve my understanding of the topic
 - **Area 2:**
-- While I know how to fix devices, I want to get better at explaining what I did to fix them to others
+  While I know how to fix devices, I want to get better at explaining what I did to fix them to others
 
 ## Career aspirations
 In 3–5 years, after I have completed my T Level, I hope to be working in a hands-on IT role, such as a network cable installer or field technician. I enjoy working with technology but I prefer the physical side of IT. I want a career that keeps me active and working directly with hardware and cabling rather than sitting at a desk
