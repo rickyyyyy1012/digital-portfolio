@@ -3,7 +3,7 @@
 [← Back to home](../README.md)
 
 ## Introduction
-*My name is Ricardo Prisecaru. I chose to do this T Level in Digital Support and Security because I have a strong passion for technology and want to pursue a career in IT.  *
+My name is Ricardo Prisecaru. I chose to do this T Level in Digital Support and Security because I have a strong passion for technology and want to pursue a career in IT.
 
 ## My interests
 *I like to diagnose issues and fixing PC's and laptops when I need to. I also go to the gym regularly which helps me to stay disciplined and focused.*
