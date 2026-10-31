@@ -2,8 +2,6 @@
 
 [← Back to home](../README.md)
 
-> **Week 3** My Development Environment
-
 ### Tools I have used
 For my Core 1/2 and ESP, I have had to use 2 main programs
 * **Microsoft Word & PowerPoint:** I have used these in most lessons to complete the work that I am assigned and to present occasionally
