@@ -1,6 +1,6 @@
 # Hello, I am Ricardo
 
-**Digital T Level student at HoW College** · [Your pathway, e.g. Digital Production, Design & Development]
+**Digital T Level student at HoW College** · Level 3 Digital Support and Security
 
 > My Digital Professional Journey: a portfolio of growth, reflection and professional development.
 
